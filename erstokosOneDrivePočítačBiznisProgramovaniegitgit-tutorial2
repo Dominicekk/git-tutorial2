@@ -1,0 +1,67 @@
+*   [33mcommit 0cc35eb32390f6daf6bdfabdca68f85e85f4ad8a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew-feature[m[33m, [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: b9fa9c4 512a48c
+[31m|[m [32m|[m Author: Dominik Kantor <dominikkantor04@gmail.com>
+[31m|[m [32m|[m Date:   Sat Mar 23 21:42:27 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge conflict resolved
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 512a48cdfce275f9ae26d215e88b3b93e6d0c06c[m[33m ([m[1;32mconflict[m[33m)[m
+[31m|[m [32m|[m Author: Dominik Kantor <dominikkantor04@gmail.com>
+[31m|[m [32m|[m Date:   Sat Mar 23 21:36:42 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     conflict1
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit b9fa9c4a1a4169312603828ca74e0cc8aeb98204[m
+[32m|[m[32m/[m  Author: Dominik Kantor <dominikkantor04@gmail.com>
+[32m|[m   Date:   Sat Mar 23 21:37:29 2024 +0100
+[32m|[m   
+[32m|[m       conflict2
+[32m|[m   
+*   [33mcommit 345b8ff264b1aeb198c07855dc70fe51b8f1880e[m
+[33m|[m[34m\[m  Merge: 42f9552 18572ab
+[33m|[m [34m|[m Author: Dominik Kantor <dominikkantor04@gmail.com>
+[33m|[m [34m|[m Date:   Fri Mar 22 22:09:42 2024 +0100
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Merge feature1
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit 18572abe493aa39059f3814ce2f536ff20fbc4fa[m[33m ([m[1;32mfeature1[m[33m)[m
+[33m|[m [34m|[m Author: Dominik Kantor <dominikkantor04@gmail.com>
+[33m|[m [34m|[m Date:   Fri Mar 22 22:05:48 2024 +0100
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     feature done
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit 44783abd04f1b754e7b6b903ee5e658944b1c430[m
+[33m|[m [34m|[m Author: Dominik Kantor <dominikkantor04@gmail.com>
+[33m|[m [34m|[m Date:   Fri Mar 22 21:56:35 2024 +0100
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     feature commit2
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit 07c332c50283c9e0426a5541ad1f909b96b09a5a[m
+[33m|[m [34m|[m Author: Dominik Kantor <dominikkantor04@gmail.com>
+[33m|[m [34m|[m Date:   Fri Mar 22 21:55:59 2024 +0100
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     feature commit1
+[33m|[m [34m|[m 
+* [34m|[m [33mcommit 42f9552705be5c190ef2944d6f7793e7e4761161[m
+[34m|[m[34m/[m  Author: Dominik Kantor <dominikkantor04@gmail.com>
+[34m|[m   Date:   Fri Mar 22 21:58:46 2024 +0100
+[34m|[m   
+[34m|[m       bug fix
+[34m|[m 
+* [33mcommit c6a667da32876a495a4c7ce145bafd3a3af93aef[m
+[34m|[m Author: Dominik Kantor <dominikkantor04@gmail.com>
+[34m|[m Date:   Fri Mar 22 21:52:00 2024 +0100
+[34m|[m 
+[34m|[m     version3
+[34m|[m 
+* [33mcommit db64dcfb301bedc2971c51f5661e4ca7dad24523[m
+[34m|[m Author: Dominik Kantor <dominikkantor04@gmail.com>
+[34m|[m Date:   Fri Mar 22 21:51:44 2024 +0100
+[34m|[m 
+[34m|[m     version2
+[34m|[m 
+* [33mcommit 56ed25f69ced8d798f4ec0f531cb20ab47984c51[m
+  Author: Dominik Kantor <dominikkantor04@gmail.com>
+  Date:   Fri Mar 22 21:51:20 2024 +0100
+  
+      version1
